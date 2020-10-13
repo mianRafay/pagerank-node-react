@@ -1,0 +1,16 @@
+.nav {
+  width: 25%;
+  background-color: rebeccapurple;
+  min-height: 89vh;
+  float: left;
+}
+
+.container {
+  text-align: center;
+  margin: 73px;
+}
+
+.pageRankStyling {
+  padding: 10px;
+  background-color: #d2eaff;
+}

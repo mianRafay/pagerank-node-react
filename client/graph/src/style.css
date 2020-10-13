@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.btn-outline {
+  color: #4fbfa8;
+  background-color: #ffffff;
+  border-color: #4fbfa8;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+
+.btn-outline {
+  color: #4fbfa8;
+  background-color: #ffffff;
+  border-color: #4fbfa8;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  background: #4fbfa8;
+  color: #ffffff;
+  border-color: #4fbfa8;
+}
+
+.btn-colour-1 {
+  color: #fff;
+  background-color: #004e64;
+  border-color: #004e64;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  border-radius: 10px;
+}
+
+.btn-colour-1:hover,
+.btn-colour-1:active,
+.btn-colour-1:focus,
+.btn-colour-1.active {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #003d4f;
+  color: #ffffff;
+  border-color: #003d4f;
+}
+.btn-outline:disabled {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #dfe9ec;
+  color: #ffffff;
+  border-color: #dfe9ec;
+}
+.btn-outline:hover {
+  /* let's darken #004E64 a bit for hover effect */
+  background: #dfe9ec;
+  color: #ffffff;
+  border-color: #dfe9ec;
+}
+.btn-style {
+  padding: 20px 10px;
+  text-decoration: none;
+}

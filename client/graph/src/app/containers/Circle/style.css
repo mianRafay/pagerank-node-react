@@ -1,0 +1,13 @@
+.cspace:hover {
+  fill: green;
+  cursor: pointer;
+}
+.cspace:visited {
+  fill: green;
+  cursor: pointer;
+}
+.left {
+  float: left;
+  width: 75%;
+  height: 88vh;
+}
